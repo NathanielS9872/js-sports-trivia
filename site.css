@@ -90,3 +90,8 @@ button:disabled {
 		width: 100%;
 	}
 }
+body div:nth-of-type(n+2){
+	visibility:hidden;
+	width:0;
+	height:0;
+}
